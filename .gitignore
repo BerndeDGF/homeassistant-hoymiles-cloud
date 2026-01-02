@@ -1,3 +1,11 @@
+# Python related
 __pycache__/
 *.pyc
-tmp/*
+
+# Editor/IDE files
+.vscode/
+.idea/
+.kilocode/
+
+# Ignore TMP Folder
+tmp/
